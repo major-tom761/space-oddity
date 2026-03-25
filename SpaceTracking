@@ -10,7 +10,7 @@
 [2026-03-25 14:12:18] SRC=192.168.1.110 DST=10.23.5.12 SPORT=22 DPORT=53 LEN=83 MSG="Major Tom’un izlerini takip et."
 [2026-03-25 14:12:33] SRC=192.168.1.111 DST=10.23.5.12 SPORT=443 DPORT=53 LEN=107 MSG="GitHub hesabı major-tom, space-oddity repo, readme dosyasına bak."
 [2026-03-25 14:12:49] SRC=192.168.1.112 DST=10.23.5.12 SPORT=80 DPORT=53 LEN=94 MSG="Orada seni bir cümle bekliyor: \"Ground control to Major Tom\""
-[2026-03-25 14:13:03] SRC=192.168.1.113 DST=10.23.5.12 SPORT=22 DPORT=53 LEN=77 MSG="Cümlenin kendisi bir anahtar. Dikkatle oku."
+[2026-03-25 14:13:03] SRC=192.168.1.113 DST=10.23.5.12 SPORT=22 DPORT=53 LEN=77 MSG="Cümlenin kendisi bir anahtar. Dikkatle oku"
 [2026-03-25 14:13:18] SRC=192.168.1.114 DST=10.23.5.12 SPORT=443 DPORT=53 LEN=91 MSG="Sonraki adım için logları kontrol et."
 [2026-03-25 14:13:33] SRC=192.168.1.115 DST=10.23.5.12 SPORT=80 DPORT=53 LEN=105 MSG="Bazı kayıtlar şifrelenmiş olabilir. Base64 / ROT13 gibi."
 [2026-03-25 14:13:48] SRC=192.168.1.116 DST=10.23.5.12 SPORT=22 DPORT=53 LEN=87 MSG="Şu anda doğru koordinatlar elimizde değil."
