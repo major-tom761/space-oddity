@@ -1,2 +1,2 @@
 # space-oddity
-grand control to Major Tom
+ground control to Major Tom
